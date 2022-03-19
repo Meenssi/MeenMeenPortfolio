@@ -72,9 +72,15 @@ td {
 }
 
 h6{
-    font-size: 20px;
-    padding: 0em;
-    text-align: center;
+    font-size: 15px;
+    padding: 1em;
+    height:  250px;
+    text-align: left;
     background-color: pink;
+    
+}
+
+.content {
+    width: 100%;
     
 }
